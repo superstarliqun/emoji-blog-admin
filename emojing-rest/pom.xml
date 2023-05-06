@@ -9,31 +9,31 @@
 	</parent>
 
 	<groupId>com.china</groupId>
-	<artifactId>soft-rest</artifactId>
+	<artifactId>emojing-rest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>soft-rest</name>
+	<name>emojing-rest</name>
 	<packaging>jar</packaging>
 	<description>restful 风格http协议</description>
 
 	<dependencies>
 		<dependency>
 			<groupId>com.china</groupId>
-			<artifactId>soft-commons</artifactId>
+			<artifactId>emojing-commons</artifactId>
 			<version>1.0.0-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>com.china</groupId>
-			<artifactId>soft-dto</artifactId>
+			<artifactId>emojing-dto</artifactId>
 			<version>1.0.0-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>com.china</groupId>
-			<artifactId>security-module</artifactId>
+			<artifactId>emojing-security</artifactId>
 			<version>1.0.0-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>com.china</groupId>
-			<artifactId>system-service</artifactId>
+			<artifactId>emojing-system</artifactId>
 			<version>1.0.0-SNAPSHOT</version>
 		</dependency>
 	</dependencies>

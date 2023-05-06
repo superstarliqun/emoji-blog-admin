@@ -8,9 +8,9 @@
         <version>1.0.1-SNAPSHOT</version>
     </parent>
     <groupId>com.china</groupId>
-    <artifactId>soft-dto</artifactId>
+    <artifactId>emojing-dto</artifactId>
     <version>1.0.0-SNAPSHOT</version>
-    <name>soft-dto</name>
+    <name>emojing-dto</name>
     <packaging>jar</packaging>
     <description>数据传输对象</description>
 

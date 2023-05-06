@@ -16,11 +16,12 @@
 
 
     <modules>
-        <module>soft-rest</module>
-        <module>soft-commons</module>
-        <module>security-module</module>
-        <module>soft-dto</module>
-        <module>system-module</module>
+        <module>emojing-commons</module>
+        <module>emojing-dto</module>
+        <module>emojing-rest</module>
+        <module>emojing-search</module>
+        <module>emojing-security</module>
+        <module>emojing-system</module>
     </modules>
      <dependencies>
         <dependency>

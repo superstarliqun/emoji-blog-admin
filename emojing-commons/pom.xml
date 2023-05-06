@@ -8,11 +8,11 @@
 		<version>1.0.1-SNAPSHOT</version>
 	</parent>
 	<groupId>com.china</groupId>
-	<artifactId>soft-commons</artifactId>
+	<artifactId>emojing-commons</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
-	<name>soft-commons</name>
+	<name>emojing-commons</name>
 	<packaging>jar</packaging>
-	<description>服务工具配置层</description>
+	<description>工具配置层</description>
 
 	<dependencies>
 		<dependency>

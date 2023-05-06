@@ -9,13 +9,16 @@
     </parent>
 
     <groupId>com.china</groupId>
-    <artifactId>security-module</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
-    <name>security-module</name>
-    <description>安全访问控制模块</description>
+    <artifactId>emojing-system</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>emojing-system</name>
+    <description>系统基础模块</description>
 
     <dependencies>
-
+        <dependency>
+            <groupId>com.china</groupId>
+            <artifactId>soft-commons</artifactId>
+            <version>1.0.0-SNAPSHOT</version>
+        </dependency>
     </dependencies>
-
 </project>

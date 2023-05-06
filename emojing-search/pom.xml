@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.china.soft</groupId>
-    <artifactId>es-module</artifactId>
+    <artifactId>emojing-search</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>es-module</name>
-    <description>es-module</description>
+    <name>emojing-search</name>
+    <description>emojing-search</description>
     <properties>
         <java.version>17</java.version>
     </properties>
